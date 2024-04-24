@@ -29,7 +29,7 @@ slides[prossimaSlide].classList.add("active");
 
 console.log(`posto la selezione da ${immagineAttuale} a ${prossimaSlide}`);
 
-document.getElementById("btnPrev").addEventListener("click", function ()) {
+document.getElementById("btnPrev").addEventListener("click", function()) {
 	
     console.log("");
 }
